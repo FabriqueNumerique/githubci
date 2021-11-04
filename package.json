@@ -1,0 +1,22 @@
+{
+  "name": "githubci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabriqueNumerique/githubci.git"
+  },
+  "author": "tt@jj.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabriqueNumerique/githubci/issues"
+  },
+  "homepage": "https://github.com/FabriqueNumerique/githubci#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
